@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Cheng Wang, a third-year undergrad at [National University of Singapore (NUS)](https://nus.edu.sg/).
-- 👀 My research interest broadly covers **NLP** and **Trustworty LLMs**.
+- 👀 My research interest broadly covers **NLP**, **AI Safety** and **Trustworty LLMs**.
 - 🎓 I am looking for a PhD position starting in Fall 2026. Any collaboration is welcome!
 - 📩 Please contact me through [email](mailto:wangcheng@u.nus.edu) for any inquiries or collaboration opportunities.
 
