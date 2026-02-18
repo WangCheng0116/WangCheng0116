@@ -1,4 +1,4 @@
-👋 Hi, I’m Cheng, a final-year undergrad at NUS.
+👋 Hi, I’m Cheng, a final-year undergrad at NUS. I study LLMs and like opensourcing.
 
 <p align="center">
   <a href="https://wangcheng0116.github.io/">
